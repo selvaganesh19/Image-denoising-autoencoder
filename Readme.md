@@ -73,7 +73,6 @@ To contribute:
 3. Commit your changes
 4. Open a Pull Request
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
 
