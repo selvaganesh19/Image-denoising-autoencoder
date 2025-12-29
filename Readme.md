@@ -1,6 +1,6 @@
 # Image-denoising-autoencoder
 
-```markdown
+
 # 🖼️ Image-denoising-autoencoder
 
 A deep learning image denoising application using a U-Net autoencoder with interactive noise and clarity controls. Effortlessly clean up noisy images with a modern UI powered by Gradio.
