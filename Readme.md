@@ -33,7 +33,7 @@ A deep learning image denoising application using a U-Net autoencoder with inter
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Image-denoising-autoencoder.git
+git clone https://github.com/selvaganesh19/Image-denoising-autoencoder.git
 cd Image-denoising-autoencoder
 ```
 
