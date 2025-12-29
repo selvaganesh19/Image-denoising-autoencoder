@@ -187,4 +187,4 @@ with gr.Blocks(title="Image Denoising Autoencoder") as demo:
 # Launch App
 # =======================
 if __name__ == "__main__":
-    demo.launch(debug=True)
+    demo.launch()
